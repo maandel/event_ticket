@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "World Ticket Backend API — FIFA World Cup 2026 Ticketing Platform"
 authors = ["World Ticket Team"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
